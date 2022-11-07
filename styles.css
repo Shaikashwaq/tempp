@@ -1,0 +1,14 @@
+:root {
+    --primary:#371B58; 
+    --secondary:#4C3575; 
+    --gray:#5B4B8A;
+    --purple:#7858A6;
+  }  
+
+  body{
+    background-color: var(--primary); 
+    min-height: 100%;
+    min-width: 100%; 
+    color: white
+  }
+  
